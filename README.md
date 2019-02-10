@@ -29,3 +29,6 @@ let’s visualize the graph of the sigmoid function for better understanding of 
 
 we use a logarithmic loss function to calculate the cost for misclassifying.
 
+
+![cost](https://user-images.githubusercontent.com/44145876/52537363-f9c58700-2da0-11e9-8e50-926d69b8028e.png)
+![c](https://user-images.githubusercontent.com/44145876/52537364-fc27e100-2da0-11e9-8dcc-6d6fd7c18f8f.png)
