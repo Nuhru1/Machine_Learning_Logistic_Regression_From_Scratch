@@ -22,7 +22,7 @@ We take the output(z) of the linear equation and give to the function g(x) which
 
 let’s visualize the graph of the sigmoid function for better understanding of squashing.
 
-![f](https://user-images.githubusercontent.com/44145876/52537311-3cd32a80-2da0-11e9-84ca-2ddfa961e2b5.png)
+![ssg](https://user-images.githubusercontent.com/44145876/52537347-d4387d80-2da0-11e9-9457-e5daf71ee061.png)
 
 
 # Cost Function
