@@ -41,3 +41,11 @@ the gradient will be used to update our theta_0, theta_1, theta_2, ...  in other
 
 ![grd](https://user-images.githubusercontent.com/44145876/52537423-b3245c80-2da1-11e9-9037-562fd93dd3b7.png)
 
+# result
+
+we got an Accuracy of 1.0 (100%)
+
+Below is the graph of our cost function 
+
+![screenshot 18](https://user-images.githubusercontent.com/44145876/52537447-f7aff800-2da1-11e9-9ffb-bfa89607efba.png)
+
