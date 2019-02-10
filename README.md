@@ -10,3 +10,15 @@ Logistic regression algorithm also uses a linear equation with independent predi
 ![sigmoid](https://user-images.githubusercontent.com/44145876/52537240-50ca5c80-2d9f-11e9-8bc5-b8b87cda32fe.png)  ![z](https://user-images.githubusercontent.com/44145876/52537261-925b0780-2d9f-11e9-955e-bad60b97bc69.png)
 
 
+Z is the Linear Equation and g is the sigmoid function
+
+
+![h](https://user-images.githubusercontent.com/44145876/52537268-c0d8e280-2d9f-11e9-820e-3cde80c4673b.png)
+
+h is the Squashed output
+
+We take the output(z) of the linear equation and give to the function g(x) which returns a squashed value h, the value h will lie in the range of 0 to 1.
+
+
+let’s visualize the graph of the sigmoid function for better understanding of squashing.
+
