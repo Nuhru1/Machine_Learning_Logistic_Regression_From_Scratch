@@ -39,4 +39,5 @@ we use a logarithmic loss function to calculate the cost for misclassifying.
 the gradient will be used to update our theta_0, theta_1, theta_2, ...  in other to minimize our cost function after each iteration 
 
 
+![grd](https://user-images.githubusercontent.com/44145876/52537423-b3245c80-2da1-11e9-9037-562fd93dd3b7.png)
 
