@@ -22,3 +22,10 @@ We take the output(z) of the linear equation and give to the function g(x) which
 
 let’s visualize the graph of the sigmoid function for better understanding of squashing.
 
+![f](https://user-images.githubusercontent.com/44145876/52537311-3cd32a80-2da0-11e9-84ca-2ddfa961e2b5.png)
+
+
+# Cost Function
+
+we use a logarithmic loss function to calculate the cost for misclassifying.
+
