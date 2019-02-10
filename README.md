@@ -6,3 +6,5 @@
 # Sigmoid Function (Logistic Function)
 
 Logistic regression algorithm also uses a linear equation with independent predictors to predict a value. The predicted value can be anywhere between negative infinity to positive infinity. We need the output of the algorithm to be class variable, i.e 0-no, 1-yes. Therefore, we are squashing the output of the linear equation into a range of [0,1]. To squash the predicted value between 0 and 1, we use the sigmoid function.
+![sigmoid](https://user-images.githubusercontent.com/44145876/52537240-50ca5c80-2d9f-11e9-8bc5-b8b87cda32fe.png)
+
