@@ -45,7 +45,7 @@ the gradient will be used to update our theta_0, theta_1, theta_2, ...  in other
 
 I got an Accuracy of 1.0 (100%)
 
-Below is the graph of our cost function 
+# graph cost function 
 
 ![screenshot 18](https://user-images.githubusercontent.com/44145876/52537447-f7aff800-2da1-11e9-9ffb-bfa89607efba.png)
 
