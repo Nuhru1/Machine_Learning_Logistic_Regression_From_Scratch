@@ -43,7 +43,7 @@ the gradient will be used to update our theta_0, theta_1, theta_2, ...  in other
 
 # result
 
-we got an Accuracy of 1.0 (100%)
+I got an Accuracy of 1.0 (100%)
 
 Below is the graph of our cost function 
 
